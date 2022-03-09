@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lfam200" alt="lfam200" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Rescue Pets](https://rescuet-pet.herokuapp.com/)
+- 🔭 Actualmente estoy trabajando en un proyecto grupal del BootCamp de Soy Henry: [Rescue Pets](https://rescuet-pet.herokuapp.com/)
 
 - 🌱 Tengo experiencia en **React, Redux, ExpressJS, Sequelize**
 
